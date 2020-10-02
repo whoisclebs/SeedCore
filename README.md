@@ -3,11 +3,11 @@
 > A simple OS made with rust.
 
 [![GitHub repo size][repo-size]][project-url]
-[![GitHub license][license]][project-url]
-[![GitHub issues open][issues-open]][project-url]
-[![GitHub issues closed][issues-closed]][project-url]
-[![GitHub pr open][pr-open]][project-url]
-[![GitHub pr closed][pr-closed]][project-url]
+[![GitHub license][license]][license-url]
+[![GitHub issues open][issues-open]][issues-url]
+[![GitHub issues closed][issues-closed]][issues-url]
+[![GitHub pr open][pr-open]][pr-url]
+[![GitHub pr closed][pr-closed]][pr-url]
 [![GitHub stars][stars]][stargazers]
 
 This repository is an experiment of an operating system made with rust.
@@ -39,7 +39,7 @@ cargo rustc -- -C link-args="/ENTRY:_start /SUBSYSTEM:console"
 
 ## Contact
 
-Clebson Augusto Fonseca– [@clebsonf](https://twitter.com/dbader_org) – clebson.augusto@dcx.ufpb.br
+Clebson Augusto Fonseca– [@clebsonf](https://www.linkedin.com/in/fclebson/) – clebson.augusto@dcx.ufpb.br
 
 Distributed under the MIT license. See ``LICENSE`` for more information.
 
@@ -55,9 +55,12 @@ Distributed under the MIT license. See ``LICENSE`` for more information.
 [repo-size]: https://img.shields.io/github/repo-size/clebsonf/Seed_OS?color=greendark
 [project-url]: https://github.com/clebsonf/Seed_OS
 [license]: https://img.shields.io/github/license/clebsonf/Seed_OS
+[license-url]: https://github.com/clebsonf/Seed_OS/blob/main/LICENSE
 [issues-open]:https://img.shields.io/github/issues/clebsonf/Seed_OS
-[issues-closed]:https://img.shields.io/github/issues-closed/clebsonf/Seed_OS
+[issues-closed]: https://img.shields.io/github/issues-closed/clebsonf/Seed_OS
+[issues-url]: https://github.com/clebsonf/Seed_OS/issues
 [pr-open]: https://img.shields.io/github/issues-pr/clebsonf/Seed_OS
 [pr-closed]: https://img.shields.io/github/issues-pr-closed/clebsonf/Seed_OS
+[pr-url]: https://github.com/clebsonf/Seed_OS/pulls
 [stars]: https://img.shields.io/github/stars/clebsonf/Seed_OS?style=social
 [stargazers]: https://github.com/clebsonf/Seed_OS/stargazers
