@@ -5,9 +5,12 @@ authors = ["clebsonf <clebson.augusto@dcx.ufpb.br>"]
 edition = "2018"
 
 [dependencies]
+rlibc = "1.0.0"
+bootloader = "0.9.8"
 
 [profile.dev]
 panic = "abort"
 
 [profile.release]
 panic = "abort"
+
