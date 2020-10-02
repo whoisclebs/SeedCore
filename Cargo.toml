@@ -1,0 +1,13 @@
+[package]
+name = "seed_os"
+version = "0.1.0"
+authors = ["clebsonf <clebson.augusto@dcx.ufpb.br>"]
+edition = "2018"
+
+[dependencies]
+
+[profile.dev]
+panic = "abort"
+
+[profile.release]
+panic = "abort"
