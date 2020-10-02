@@ -1,16 +1,10 @@
 [package]
 name = "seed_os"
-version = "0.1.0"
+version = "0.0.1"
 authors = ["clebsonf <clebson.augusto@dcx.ufpb.br>"]
 edition = "2018"
 
 [dependencies]
-rlibc = "1.0.0"
 bootloader = "0.9.8"
-
-[profile.dev]
-panic = "abort"
-
-[profile.release]
-panic = "abort"
+rlibc = "1.0.0"
 
