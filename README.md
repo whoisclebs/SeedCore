@@ -1,6 +1,8 @@
-# 🌱 Seed OS 🌱
+# SeedCore 🌱
 
-> A simple OS made with rust.
+>  A Minimalistic Kernel for Optimal Performance
+
+SeedCore is a lightweight and efficient kernel designed for streamlined performance. Built with minimalistic principles, it provides a solid foundation for operating systems, enabling swift and optimized execution of tasks. With its focus on core functionalities, SeedCore ensures efficient resource utilization and seamless integration with various hardware platforms. Experience a nimble and responsive system with SeedCore, empowering your software to reach new heights.
 
 [![GitHub repo size][repo-size]][project-url]
 [![GitHub license][license]][license-url]
@@ -61,31 +63,31 @@ QEMU and the bootimage tool need to be installed for this.
 
 ## Contact
 
-Clebson Augusto Fonseca– [@clebsonf](https://www.linkedin.com/in/fclebson/) – clebson.augusto@dcx.ufpb.br
+Clebson Augusto Fonseca– [@whoisclebs](https://www.linkedin.com/in/whoisclebs/) – clebson.augusto@dcx.ufpb.br
 
 Distributed under the MIT license. See ``LICENSE`` for more information.
 
 ## Contributing
 
-1. Fork it (<https://github.com/clebsonf/Seed_OS/fork>)
+1. Fork it (<https://github.com/whoisclebs/SeedCore/fork>)
 2. Create your feature branch (`git checkout -b feature/fooBar`)
 3. Commit your changes (`git commit -am 'Add some fooBar'`)
 4. Push to the branch (`git push origin feature/fooBar`)
 5. Create a new Pull Request
 
 <!-- Markdown link & img dfn's -->
-[repo-size]: https://img.shields.io/github/repo-size/clebsonf/Seed_OS?color=greendark
-[project-url]: https://github.com/clebsonf/Seed_OS
-[license]: https://img.shields.io/github/license/clebsonf/Seed_OS
-[license-url]: https://github.com/clebsonf/Seed_OS/blob/main/LICENSE
-[issues-open]:https://img.shields.io/github/issues/clebsonf/Seed_OS
-[issues-closed]: https://img.shields.io/github/issues-closed/clebsonf/Seed_OS
-[issues-url]: https://github.com/clebsonf/Seed_OS/issues
-[pr-open]: https://img.shields.io/github/issues-pr/clebsonf/Seed_OS
-[pr-closed]: https://img.shields.io/github/issues-pr-closed/clebsonf/Seed_OS
-[pr-url]: https://github.com/clebsonf/Seed_OS/pulls
-[stars]: https://img.shields.io/github/stars/clebsonf/Seed_OS?style=social
-[stargazers]: https://github.com/clebsonf/Seed_OS/stargazers
-[commit-activity]: https://img.shields.io/github/commit-activity/m/clebsonf/Seed_OS
-[commit-url]: https://github.com/clebsonf/Seed_OS/commits
-[last-commit]: https://img.shields.io/github/last-commit/clebsonf/Seed_OS
+[repo-size]: https://img.shields.io/github/repo-size/whoisclebs/SeedCore?color=greendark
+[project-url]: https://github.com/whoisclebs/SeedCore
+[license]: https://img.shields.io/github/license/whoisclebs/SeedCore
+[license-url]: https://github.com/whoisclebs/SeedCore/blob/main/LICENSE
+[issues-open]:https://img.shields.io/github/issues/whoisclebs/SeedCore
+[issues-closed]: https://img.shields.io/github/issues-closed/whoisclebs/SeedCore
+[issues-url]: https://github.com/whoisclebs/SeedCore/issues
+[pr-open]: https://img.shields.io/github/issues-pr/whoisclebs/SeedCore
+[pr-closed]: https://img.shields.io/github/issues-pr-closed/whoisclebs/SeedCore
+[pr-url]: https://github.com/whoisclebs/SeedCore/pulls
+[stars]: https://img.shields.io/github/stars/whoisclebs/SeedCore?style=social
+[stargazers]: https://github.com/whoisclebs/SeedCore/stargazers
+[commit-activity]: https://img.shields.io/github/commit-activity/m/whoisclebs/SeedCore
+[commit-url]: https://github.com/whoisclebs/SeedCore/commits
+[last-commit]: https://img.shields.io/github/last-commit/whoisclebs/SeedCore
